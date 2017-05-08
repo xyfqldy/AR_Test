@@ -12,11 +12,11 @@ AR扫福学习啦，下载好Demo，再添加好两个.a文件，即可编译成
 
 
 
-<img src="Image/fu-2.jpg" width="148" height="148" >
+<img src="Image/fu-2.jpg" width="448"  >
 
-<img src="Image/fu-1.jpg" width="148" height="148">
+<img src="Image/fu-1.jpg" width="448" >
 
-<img src="Image/3_1486103967592.png" width="148" height="148">
+<img src="Image/3_1486103967592.png" width="448" >
 
 <!---
 下面的不管用
