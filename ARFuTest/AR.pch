@@ -1,0 +1,42 @@
+//
+//  AR.pch
+//  ARFuTest
+//
+//  Created by 涛涛 on 2017/4/27.
+//  Copyright © 2017年 I_MT. All rights reserved.
+//
+
+#ifndef AR_pch
+#define AR_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* AR_pch */
+
+
+
+//
+// Prefix header
+//
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif
+
+#include "Preprocessor.h"
+#include "UnityTrampolineConfigure.h"
+#include "UnityInterface.h"
+
+#ifndef __OBJC__
+#if USE_IL2CPP_PCH
+#include "il2cpp_precompiled_header.h"
+#endif
+#endif
+
+#ifndef TARGET_IPHONE_SIMULATOR
+#define TARGET_IPHONE_SIMULATOR 0
+#endif
+
+#define printf_console printf
