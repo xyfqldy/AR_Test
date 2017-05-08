@@ -13,6 +13,6 @@ AR扫福学习啦，下载好Demo，再添加好两个.a文件，即可编译成
 
 ![](Image/fu-2.jpg)
 
-![](Image/fu-1.png)
+![](Image/fu-1.jpg)
 
 ![](Image/3_1486103967592.png)
